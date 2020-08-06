@@ -1,7 +1,7 @@
        Identification Division.
 
        Program-Id. DATABUS.
-       Author.     Circle Computer Group LLC.
+       Author.     IBM Redbooks.
 
            Remarks. This program is the Business Logic for
                    CICS Application Programming Workshop class.
