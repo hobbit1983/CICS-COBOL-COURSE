@@ -4,10 +4,10 @@
        Author.     IBM Redbooks.
 
            Remarks. This program is the Business Logic for
-                   CICS Application Programming Workshop class.
-                   This program LINKed to by DATAPGM.
-                   Instead of using a COMMAREA interface it uses
-                   a simple example of CHANNELS and CONTAINERS
+                    CICS Application Programming Workshop class.
+                    This program LINKed to by DATAPGM.
+                    Instead of using a COMMAREA interface it uses
+                    a simple example of CHANNELS and CONTAINERS
 
        Environment Division.
        Data Division.
